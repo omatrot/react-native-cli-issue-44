@@ -24,4 +24,4 @@ or
 
 or
 
-open ios/MyHeartSigns.xcworkspace project in Xcode press the Run button
+open ios/rnios23564.xcworkspace project in Xcode press the Run button
